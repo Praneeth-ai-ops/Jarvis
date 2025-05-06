@@ -30,7 +30,9 @@ In CMD
 WIN KEY + R
 CMD Enter
 Move To Project Folder 
-Type "pip install -r requirements.txt"
+ **Type:**
+   ```bash
+   pip install -r requirements.txt
 
 ## Commands
 "What time is it?"
