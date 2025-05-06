@@ -26,21 +26,10 @@ Jarvis Ultra is a compact yet powerful Python-based voice assistant designed to 
    git clone https://github.com/yourusername/jarvis-ultra.git
    cd jarvis-ultra
 
-In CMD 
-WIN KEY + R
-CMD Enter
-Move To Project Folder 
- **Type:**
+---
+
+## CMD Works
+
+1. **CMD Works:**
    ```bash
    pip install -r requirements.txt
-
-## Commands
-"What time is it?"
-
-"Open YouTube"
-
-"Tell me a joke"
-
-Tell siri Before Any AI Telling Commands 
-You Can Tell Anything To Ask Time And Open App Or Website 
-If You Want You Can Mofify
