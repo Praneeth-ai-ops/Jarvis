@@ -23,8 +23,8 @@ Jarvis Ultra is a compact yet powerful Python-based voice assistant designed to 
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/jarvis-ultra.git
-   cd jarvis-ultra
+   git clone https://github.com/Praneeth-ai-ops/Jarvis.git
+   cd Jarvis
 
 ---
 
